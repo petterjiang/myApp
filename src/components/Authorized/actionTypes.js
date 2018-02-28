@@ -1,0 +1,10 @@
+export const INTER_USER_NAME = 'authorized/inter_user_name';
+export const INTER_USER_PASSWORD = 'authorized/inter_user_password';
+export const YZM_IS_SHOW = 'authorized/yzm_is_show';
+export const INTER_YZM = 'authorized/inter_yzm';
+export const CHANGE_YZM = 'authorized/change_yzm';
+export const AGREE_PROTOCOL = 'authorized/agree_protocol';
+export const SUBMIT_GRANT = 'authorized/submit_grant';
+export const IS_LOADING = 'authorized/is_loading';
+export const IS_POP_SHOW = 'authorized/isPopShow';
+export const PARAMS_ID = 'authorized/params_id';
